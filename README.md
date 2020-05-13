@@ -8,3 +8,6 @@ We are trying to automate the process of the tickets being assigned specific dep
 
 The data is obtained through scrapping emails received by technicians after they have been classified by a human. The original tickets only consist
 of short description and additional comments.
+
+
+## Project Status: On Hold
